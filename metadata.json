@@ -1,0 +1,5 @@
+{
+  "name": "Nexus - 人脉智能管家",
+  "description": "基于 Gemini 的智能人际关系管理系统。支持自然语言录入、自动丰富简历、AI 搜索增强以及可视化人脉网络图谱。",
+  "requestFramePermissions": []
+}
